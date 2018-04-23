@@ -20,7 +20,7 @@ If inputted address is invalid, then output will be
 
 `{"message":null}`
 
-###### Note: This app considers Germany as primary country
+###### Note: This app considers Germany as primary country.
 
 ## Design
 
