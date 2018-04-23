@@ -35,5 +35,5 @@ also break our application, or are they handled accordingly?*
 
 *Extra*
 
-**I have already isolated the configuration of the third party API. So, it's quite easy to switch to some other third party API service. Only thing we need to change is the call_api metho to adapt accoriding to the new API service. And also we need to change abit in the search method according to the response strusture of the new service.**
+**I have already isolated the configuration of the third party API. So, it's quite easy to switch to some other third party API service. Only thing we need to change is the call_api method to adapt accoriding to the new API service. And also we need to change a bit in the search method according to the response strusture of the new service.**
 
