@@ -21,3 +21,5 @@ If inputted address is invalid, then output will be
 `{"message":null}`
 
 ###### Note: This app considers Germany as primary country.
+
+I have added a new method called test.
